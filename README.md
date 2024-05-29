@@ -3,7 +3,7 @@
 Verve is a full-stack eCommerce website that provides a seamless shopping experience using the MERN stack (MongoDB, Express, React JS, and Node JS). The front-end, built with React JS, offers a user-friendly interface to display products, manage the product cart, and handle user login and registration. This prokect also includes an admin panel to facilitate seamless product management.
 
 
-<img width="400" alt="Screen Shot 2023-08-06 at 3 29 06 AM" src="https://github.com/istumps/Verve/assets/90006484/b5fba27f-6c53-4f59-8dd3-b9a2a166770a">
+<img width="600" alt="Screen Shot 2023-08-06 at 3 29 06 AM" src="https://github.com/istumps/Verve/assets/90006484/b5fba27f-6c53-4f59-8dd3-b9a2a166770a">
 
 
 ## Video Demo 

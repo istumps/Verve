@@ -23,8 +23,8 @@ https://www.youtube.com/watch?v=5VzR3D7_tU0
 
 ### Backend
 
-- Express JS
-- Node JS
+- Express.JS
+- Node.JS
 - MongoDB
 
 

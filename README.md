@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=5VzR3D7_tU0
 
 ### Authentication
 
--JSON Web Tokens (JWT)
+- JSON Web Tokens (JWT)
 
 
 ## Features

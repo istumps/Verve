@@ -36,8 +36,8 @@ https://www.youtube.com/watch?v=5VzR3D7_tU0
 ## Features
 
 - Users can browse various product categories, view detailed descriptions, images, and prices.
-- Manage the shopping cart by adding, updating, or removing items, and proceed to checkout.
-- User registration and login
-- APIs to perform CRUD operations (create, read, update, delete) on product information, ensuring the product catalog is always up-to-date.
+- Users can manage the shopping cart by adding, updating, or removing items, and proceed to checkout.
+- Secure user registration and login
+- Utilization of APIs to perform CRUD operations (create, read, update, delete) on product information, ensuring the product catalog is always up-to-date.
 - Admin panel for adding new products, updating details, and managing inventory efficiently.
 
